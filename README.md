@@ -18,6 +18,18 @@ Langkah 2: Membuat Proyek Flutter Baru
 - Jalankan perintah `flutter create nama_proyek` untuk membuat proyek Flutter baru.
 - Beralih ke direktori proyek dengan menjalankan perintah `cd nama_proyek`.
 
+<p>Screenshoot</P>
+
+![Gambar 1](gambar/g1.png)
+
+![Gambar 2](gambar/g2.png)
+
+![Gambar 3](gambar/g3.png)
+
+![Gambar 4](gambar/g4.png)
+
+![Gambar 5](gambar/g5.png)
+
 Langkah 3: Menambahkan Dependensi
 - Buka file pubspec.yaml pada direktori proyek.
 - Tambahkan dependensi http dengan versi tertentu. Contoh:
@@ -101,17 +113,6 @@ class _LoginPageState extends State<LoginPage> {
             ),
             SizedBox(height: 24.0),
             ElevatedButton(
-              child: Text
+              child: Text 
 
-<p>Screenshoot</P>
-
-![Gambar 1](gambar/g1.png)
-
-![Gambar 2](gambar/g2.png)
-
-![Gambar 3](gambar/g3.png)
-
-![Gambar 4](gambar/g4.png)
-
-![Gambar 5](gambar/g5.png)
 
