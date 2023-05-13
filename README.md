@@ -9,7 +9,7 @@ Pemrograman M0bile 2
 
 <p>Screenshoot</P>
 
-![Gambar 1](gambar/g1.JPG)
+![Gambar 1](gambar/g1.png)
 
 ![Gambar 2](screenshoot/2.JPG)
 
